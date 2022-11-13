@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: deosaju.github.io
+Token: 23580f9608ccb868c1933e13346803313941a42c9299be0847730dd483c40fba
